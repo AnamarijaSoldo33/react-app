@@ -40,11 +40,10 @@
 }
 
 .container {
-  max-width: 630px;
+  max-width: 550px;
 
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding: 20px 16px 24px;
   margin-right: auto;
   margin-left: auto;
 }
