@@ -1,0 +1,22 @@
+.description {
+  box-sizing: border-box;
+  margin-right: 5px;
+  height: 64px;
+  width: 64px;
+  font-family: arial, sans-serif;
+}
+
+.temperature strong {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  line-height: 1;
+  font-weight: 400;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  box-sizing: border-box;
+  font: size 16px;
+}
