@@ -25,6 +25,13 @@ export default function Weather() {
           <li>Humidity:80%</li>
           <li>Wind:10km/h</li>
         </ul>
+        <span>
+          {" "}
+          <a href="https://github.com/AnamarijaSoldo33/react-app">
+            Open sourced code{" "}
+          </a>{" "}
+          by Anamarija Soldo
+        </span>
       </div>
     </div>
   );
